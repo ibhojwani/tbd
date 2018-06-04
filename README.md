@@ -6,6 +6,9 @@
 #### Kevin Sun
 #### Tyler Amos
 
+This directory holds the code from our initial CS12300 project, which
+had to be changed due to scope and API issues.
+
 # To do:
  - [ ] parallelize data downloading (Ty)
  - [ ] automate creation of sub-area geojson based on min/max values from UNOSAT data
